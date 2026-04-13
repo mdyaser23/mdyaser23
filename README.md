@@ -3,13 +3,13 @@
 **Data Science @ York University**
 Currently 5 semesters deep. I focus on bridging the gap between high-level mathematical theory and practical data charts.
 
-### 📊 Data Science & Technical Stack
+###  Data Science & Technical Stack
 * **Languages:** Python, SQL, LaTeX, R, Currently mastering C.
 * **Analysis & Visualization:** Pandas and NumPy for data manipulation; Matplotlib and Seaborn for statistical visualization.
 * **Mathematical Foundations:** Applying high level Calculus and Algebra to algorithmic logic and predictive modeling.
 * **Workflow:** Version control with Git/GitHub and environment management in VS Code.
 
-### 🏔 Beyond the Screen
+###  Beyond the Screen
 * **Athletics:** 5x weekly strength training in the gym. When I'm not in the gym, I’m usually on the soccer pitch or swimming laps to keep the intensity up.
 * **Exploration:** Frequent hiker, currently exploring the GTA trail systems and local conservation areas.
 * **Gaming:** Competitive gaming. I enjoy the mechanical skill and strategic depth required at high tier play.
@@ -17,7 +17,7 @@ Currently 5 semesters deep. I focus on bridging the gap between high-level mathe
 
 ---
 
-### 🛠 Projects
+###  Projects
 Core Projects & Research
 My work focuses on transforming messy, unstructured datasets into actionable business intelligence. Key highlights from my recent collaborative and solo builds include:
 
